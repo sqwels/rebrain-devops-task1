@@ -2,7 +2,7 @@
 # This project about Nginx base configuration
 
 >### Name project:  
->>####**`Nginx-base`**
+>> #### **`Nginx-base`**
 >#### Version: 
 >>```0.1```
 >#### Created by:
