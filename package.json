@@ -1,0 +1,14 @@
+{
+  "name": "Nginx-base",
+  "description": "Contains a basic Nginx configuration template.",
+#  "Author": "Leonid Golikhin <l.golikhin@yandex.ru>"
+  "version": "0.1",
+  "repository": {
+    "url": "git@gitlab.rebrainme.com:devops_users_repos/779/rebrain-devops-task1.git"
+  },
+  "bin": {
+    "common-readme": "cli.js"
+  },
+  "dependencies": "No dependencies",
+  "license": "Free license"
+}
